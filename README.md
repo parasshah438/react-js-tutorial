@@ -5,11 +5,6 @@ Complete Reference Guide for Next.js
 ## 🌐 Live Demo
 👉 https://parasshah438.github.io/next-js-tutorial/
 
-## 📦 GitHub Repository
-👉 https://github.com/parasshah438/next-js-tutorial
-
----
-
 ## ✨ Features
 
 - Next.js Basics
