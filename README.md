@@ -56,7 +56,7 @@
         </div>
     </div>
 
-    <!-- Background Glow -->
+   
     <div class="position-absolute top-0 end-0 translate-middle-y bg-warning rounded-circle opacity-25"
          style="width: 350px; height: 350px; filter: blur(80px);">
     </div>
