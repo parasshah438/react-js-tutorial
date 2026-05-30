@@ -1,13 +1,13 @@
-# 🚀 Next.js Useful Tutorial
+# 🚀 React.js Useful Tutorial
 
-Complete Reference Guide for Next.js
+Complete Reference Guide for React.js
 
 ## 🌐 Live Demo
-👉 https://parasshah438.github.io/next-js-tutorial/
+👉 https://parasshah438.github.io/react-js-tutorial/
 
 ## ✨ Features
 
-- Next.js Basics
+- React.js Basics
 - Routing
 - API Routes
 - Authentication
